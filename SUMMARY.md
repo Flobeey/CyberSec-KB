@@ -7,11 +7,23 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
+## Pentesting
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Editor](pentesting/editor.md)
+
+## Cloud
+
+* [Azure](cloud/azure/README.md)
+  * [Cheatsheet](cloud/azure/cheatsheet.md)
+* [AWS](cloud/aws.md)
+* [GCP](cloud/gcp.md)
+
+## Blue Team
+
+* [Page 1](blue-team/page-1.md)
+
+## Tools
+
+* [GitHub Tools](tools/github-tools.md)
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [ExplainShell](https://explainshell.com)

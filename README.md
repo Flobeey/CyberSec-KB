@@ -22,3 +22,23 @@ layout:
 
 A collection of commands, tools and quick wins related to cyber security.
 
+{% content-ref url="pentesting/quick-useful-cheatsheet.md" %}
+[quick-useful-cheatsheet.md](pentesting/quick-useful-cheatsheet.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+

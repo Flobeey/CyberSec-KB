@@ -6,6 +6,15 @@
 
 * [Ports/Services](pentesting/ports-services/README.md)
   * [80/443 - HTTP/HTTPS](pentesting/ports-services/80-443-http-https.md)
+  * [21 - FTP](pentesting/ports-services/21-ftp.md)
+  * [389/636 - LDAP](pentesting/ports-services/389-636-ldap.md)
+* [Quick Useful / Cheatsheet](pentesting/quick-useful-cheatsheet.md)
+
+## Blue Team
+
+* [Sysadmin](blue-team/sysadmin/README.md)
+  * [Linux Commands](blue-team/sysadmin/linux-commands.md)
+  * [Docker Commands](blue-team/sysadmin/docker-commands.md)
 
 ## Cloud
 
@@ -13,10 +22,6 @@
   * [Cheatsheet](cloud/azure/cheatsheet.md)
 * [AWS](cloud/aws.md)
 * [GCP](cloud/gcp.md)
-
-## Blue Team
-
-* [Page 1](blue-team/page-1.md)
 
 ## Tools
 

@@ -25,7 +25,7 @@
 
 ## Tools
 
-* [GitHub Tools](tools/github-tools.md)
+* [Tools / Github Tools](tools/github-tools.md)
 * [CyberChef](https://gchq.github.io/CyberChef/)
 * [ExplainShell](https://explainshell.com)
 * [Reverse shells](https://www.revshells.com)

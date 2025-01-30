@@ -20,6 +20,8 @@
 * SharpUP
 * ldapsearch
 * nuclei
+* Powerview\
+  [https://github.com/darkoperator/Veil-PowerView/tree/master/PowerView](https://github.com/darkoperator/Veil-PowerView/tree/master/PowerView)
 
 ## Blue Team
 
@@ -28,8 +30,7 @@
 * Velociraptor - endpoint digital forensic / IR tool\
   [https://docs.velociraptor.app](https://docs.velociraptor.app)
 * volatility - Memory analysis tool\
-  [https://github.com/volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)\
-
+  [https://github.com/volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)
 * FTKImager - Takes a capture of a device or VM
 * exiftool - veiwing file metadeta
 * steghide - hiding files in pictures
